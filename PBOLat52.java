@@ -7,8 +7,8 @@ import java.util.Scanner;
 
 * Nama         : Nur Hidayah
 * NIM          : 22166034 
-* Kelas        : PBO 022
-* Mata Kuliah  : PBO
+* Mata Kuliah  : PBO 
+* Prodi        : Sistem Informasi
 // Semester 3
     
 public class PBOLat52 {
