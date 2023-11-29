@@ -4,10 +4,13 @@
  */
 package pkg22166034.pbo.lat52;
 import java.util.Scanner;
-/**
- *
- * @author LENOVO
- */
+
+* Nama         : Nur Hidayah
+* NIM          : 22166034 
+* Kelas        : PBO 022
+* Mata Kuliah  : PBO
+// Semester 3
+    
 public class PBOLat52 {
 
     public static void main(String[] args) {
